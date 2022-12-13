@@ -1,7 +1,7 @@
 # Hardware-Final-Exam-SOLUTION WRITEUP
 
 Components Explanation:
-- For my controller, I made 2 components - the base and the lid. The base acts as the container to hold all of the electronic components such as the joystick, the two buttons, the LED, the breadboard and the arduino. The lid has multiple holes for the joystick, LED and the two buttons to slot in place as well. 
+- For my controller, I made 2 components - the base and the lid. The base acts as the container to hold all of the electronic components such as the joystick, the two buttons, the LED, the breadboard and the arduino. The lid has multiple holes for the joystick, LED and the two buttons to slot in place as well. For the feel of the controller, I wanted to make something small that can be held with both hands. Having the joystick on one side and the two buttons on the other will allow the user to simutaneously move and input actions accordingly. The curved egdes as well will help with the grip and feel comforatble holding in the hands of the user. The LED as well being central on the top of the lid will be evident to the player at all times as well.
 
 Assembly Explanation: 
 - To assemble the controller, the main  electronic circuits such as the arduino and the breadboard are located in the central bottom part of the base. The joystick is one the left and the two buttons are on the right. The user can use the joystick to move, and the two buttons act as a dodge and an attack. The LED will also light up if the user has performed action by clicking either button. 
